@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonamchaturvedi28)](https://github.com/sonamchaturvedi28/github-profile-trophy)
+
+![Sonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonamchaturvedi28&theme=merko&show_icons=true&&count_private=true)
